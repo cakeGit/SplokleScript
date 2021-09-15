@@ -1,0 +1,11 @@
+C:\Users\samue\OneDrive\Documents\Code + Games\splooklescript\bin\Debug\netcoreapp3.1\splooklescript.exe
+C:\Users\samue\OneDrive\Documents\Code + Games\splooklescript\bin\Debug\netcoreapp3.1\splooklescript.deps.json
+C:\Users\samue\OneDrive\Documents\Code + Games\splooklescript\bin\Debug\netcoreapp3.1\splooklescript.runtimeconfig.json
+C:\Users\samue\OneDrive\Documents\Code + Games\splooklescript\bin\Debug\netcoreapp3.1\splooklescript.runtimeconfig.dev.json
+C:\Users\samue\OneDrive\Documents\Code + Games\splooklescript\bin\Debug\netcoreapp3.1\splooklescript.dll
+C:\Users\samue\OneDrive\Documents\Code + Games\splooklescript\bin\Debug\netcoreapp3.1\splooklescript.pdb
+C:\Users\samue\OneDrive\Documents\Code + Games\splooklescript\obj\Debug\netcoreapp3.1\splooklescript.csprojAssemblyReference.cache
+C:\Users\samue\OneDrive\Documents\Code + Games\splooklescript\obj\Debug\netcoreapp3.1\splooklescript.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Documents\Code + Games\splooklescript\obj\Debug\netcoreapp3.1\splooklescript.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Documents\Code + Games\splooklescript\obj\Debug\netcoreapp3.1\splooklescript.dll
+C:\Users\samue\OneDrive\Documents\Code + Games\splooklescript\obj\Debug\netcoreapp3.1\splooklescript.pdb

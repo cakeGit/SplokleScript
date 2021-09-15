@@ -1,0 +1,6 @@
+#A kind of comment
+#yea this is it
+#and all vars MUST be a number lol
+
+var x = 2     
+Sks.log(x)
